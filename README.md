@@ -1,4 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=SIWAN&fontSize=90)
+
 ### Hi there 👋
+
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Siwan1027)](https://github.com/Siwan1027)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Siwan1027&show_icons=true&theme=radical)](https://github.com/Siwan1027)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwan1027)](https://github.com/Siwan1027/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwan1027&layout=compact)](https://github.com/Siwan1027/github-readme-stats)
+
 
 <!--
 **Siwan1027/Siwan1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
