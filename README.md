@@ -18,7 +18,10 @@
 <br/> 
 
 ##
-  <img align="left" marginleft = 20px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siwan1027&layout=compact&theme=highcontrast"/> 
-  <img align="right" marginright = 20px src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siwankim"/>
-
+<div>
+   
+   [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Siwan1027&show_icons=true&theme=radical)](https://github.com/Siwan1027)
+</div>
+   <img align="left" marginleft = 20px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siwan1027&layout=compact&theme=highcontrast"/> 
+   <img align="right" marginright = 20px src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siwankim"/>
 
