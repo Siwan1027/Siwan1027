@@ -19,7 +19,7 @@
      <tr>
        <td>Languages</td>
        <td><img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=#3776AB"/></td>
-       <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/R-007396?style=for-the-badge&logo=R&logoColor=#276DC3"/></td>
+       <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></td>
      </tr>
      <tr>
        <td>Backend</td>
